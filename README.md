@@ -1,3 +1,3 @@
 # Cleaning-Libraries
 
-Here you could fine unusual libraries to clean texts.
+Here you can find unusual libraries to clean texts.
